@@ -48,18 +48,28 @@
 
 <br/>  
 
-## Connect with me
+## Links
 
 <br />
 
 <div align="center">
 <a href="https://github.com/dayardiyev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/dayardiyevv" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+
+<a href="https://www.hackerrank.com/dayardiyev" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%23000000.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+</a> 
+<a href="https://leetcode.com/Dayardiyevv/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.codewars.com/users/Dayardiyev" target="_blank">
+<img src=https://img.shields.io/badge/codewars-%23000000.svg?&style=for-the-badge&logo=codewars&logoColor= alt=hackerrank style="margin-bottom: 5px;" />
+</a> 
+</div>   
 
 ## GitHub Stats
 

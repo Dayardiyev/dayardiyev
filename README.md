@@ -18,6 +18,8 @@
 
 ## My Skill Set
 
+<br/>
+
 <table><tr><td valign="top" width="50%">
 
 <h3 align="center">Frontend</h3>
@@ -48,6 +50,8 @@
 
 ## Connect with me
 
+<br />
+
 <div align="center">
 <a href="https://github.com/dayardiyev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -57,20 +61,17 @@
 </a>  
 </div>  
 
-
-<br/>  
-
 ## GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dayardiyev
-&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 
-<br/>
-<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dayardiyev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+## Spotify
+
 <br/>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hau2mank7hyxcwd6bgdxdfqc7y&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
 
-<br/>
-<br/>
-<br/>
+<br />
